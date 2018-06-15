@@ -1,0 +1,1 @@
+{"nDaysWithoutFine":16,"finePreDay":1.0,"userName":"Admin","Password":"dc76e9f0c0006e8f919e0c515c66dbba3982f785"}
